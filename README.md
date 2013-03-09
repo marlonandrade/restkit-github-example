@@ -8,8 +8,9 @@ This application purpose is just to provide a simple example basic RestKit usage
 It demonstrates only Object Mapping and a simple Request Operation.  
 It is an implemented example from the initial [RestKit](https://github.com/RestKit/Restkit) README file.
 
-This application will consume one public method of [github API](https://developer.github.com).  
-It will get all repositories from [RestKit Organization](https://github.com/restkit) and simply display it on a UITableView.
+This application will consume one public method of [github API](https://developer.github.com) in order to get all repositories from [RestKit Organization](https://github.com/restkit) and simply display it on a UITableView.
+
+```https://api.github.com/orgs/RestKit/repos```
 
 ## Credits
 
