@@ -34,8 +34,8 @@
 		BF5F146816EBF935008DCD00 /* watchers@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5F146216EBF935008DCD00 /* watchers@2x.png */; };
 		BF5F146916EBF935008DCD00 /* forks.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5F146316EBF935008DCD00 /* forks.png */; };
 		BF5F146A16EBF935008DCD00 /* issues.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5F146416EBF935008DCD00 /* issues.png */; };
-		BF5F147916EC0D7B008DCD00 /* cell_background@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5F147716EC0D7B008DCD00 /* cell_background@2x.png */; };
-		BF5F147A16EC0D7B008DCD00 /* cell_background.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5F147816EC0D7B008DCD00 /* cell_background.png */; };
+		BF5F147D16EC192D008DCD00 /* cell_background.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5F147B16EC192D008DCD00 /* cell_background.png */; };
+		BF5F147E16EC192D008DCD00 /* cell_background@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5F147C16EC192D008DCD00 /* cell_background@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -85,8 +85,8 @@
 		BF5F146216EBF935008DCD00 /* watchers@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "watchers@2x.png"; sourceTree = "<group>"; };
 		BF5F146316EBF935008DCD00 /* forks.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = forks.png; sourceTree = "<group>"; };
 		BF5F146416EBF935008DCD00 /* issues.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = issues.png; sourceTree = "<group>"; };
-		BF5F147716EC0D7B008DCD00 /* cell_background@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cell_background@2x.png"; sourceTree = "<group>"; };
-		BF5F147816EC0D7B008DCD00 /* cell_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell_background.png; sourceTree = "<group>"; };
+		BF5F147B16EC192D008DCD00 /* cell_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell_background.png; sourceTree = "<group>"; };
+		BF5F147C16EC192D008DCD00 /* cell_background@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cell_background@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -228,8 +228,8 @@
 		BF5F145E16EBF927008DCD00 /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				BF5F147816EC0D7B008DCD00 /* cell_background.png */,
-				BF5F147716EC0D7B008DCD00 /* cell_background@2x.png */,
+				BF5F147B16EC192D008DCD00 /* cell_background.png */,
+				BF5F147C16EC192D008DCD00 /* cell_background@2x.png */,
 				BF5F146316EBF935008DCD00 /* forks.png */,
 				BF5F145F16EBF935008DCD00 /* forks@2x.png */,
 				BF5F146416EBF935008DCD00 /* issues.png */,
@@ -325,8 +325,8 @@
 				BF5F146816EBF935008DCD00 /* watchers@2x.png in Resources */,
 				BF5F146916EBF935008DCD00 /* forks.png in Resources */,
 				BF5F146A16EBF935008DCD00 /* issues.png in Resources */,
-				BF5F147916EC0D7B008DCD00 /* cell_background@2x.png in Resources */,
-				BF5F147A16EC0D7B008DCD00 /* cell_background.png in Resources */,
+				BF5F147D16EC192D008DCD00 /* cell_background.png in Resources */,
+				BF5F147E16EC192D008DCD00 /* cell_background@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
