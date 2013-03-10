@@ -1,5 +1,5 @@
 //
-//  MAViewController.h
+//  MARepositoryListController.h
 //  RKGitHubExample
 //
 //  Created by Marlon Andrade on 09/03/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MAViewController : UIViewController
+@interface MARepositoryListController : UITableViewController
 
 @end
