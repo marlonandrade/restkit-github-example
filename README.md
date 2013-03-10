@@ -14,7 +14,9 @@ It is an implemented example from the initial [RestKit](https://github.com/RestK
 
 This application will consume one public method of [github API](https://developer.github.com) in order to get all repositories from [RestKit Organization](https://github.com/restkit) and simply display it on a UITableView.
 
-```https://api.github.com/orgs/RestKit/repos```
+```
+https://api.github.com/orgs/RestKit/repos
+```
 
 ## Credits
 
