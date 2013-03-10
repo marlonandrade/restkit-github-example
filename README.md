@@ -1,6 +1,10 @@
-# RestKit Twitter Example
+# RestKit GitHub Example
 
 Simple application to demonstrate the usage of [RestKit](https://github.com/RestKit/RestKit) mapping.  
+
+## Screen Shot
+
+![RestKit Github Example](https://raw.github.com/marlonandrade/restkit-github-example/master/docs/screen_shot.png)
 
 ## Overview
 
